@@ -1,5 +1,8 @@
 # provide-app
+En esta app utilizo vue 3. Y localStorage para guardar las tareas. Se pueden eliminar las tareas o marcar como realizadas. 
 
+## Hosting
+https://toodoovue.netlify.app
 ## Project setup
 ```
 npm install
